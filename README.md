@@ -1,4 +1,4 @@
-Various utilities for improving level design workflow
+Blender addon providing various utilities for improving level design workflow
 
  - Faster export to GLTF
  - Easily change grid scale
